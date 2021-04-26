@@ -3,7 +3,7 @@
     "description": "Relinker QR codes generator for Magento 2",
     "require": {
         "msp/module-relinker-api": "^0.2",
-        "endroid/qr-code": "^2.5"
+        "endroid/qr-code": "^3.7"
     },
     "authors": [
         {
