@@ -2,8 +2,6 @@
     "name": "msp/module-relinker-qr",
     "description": "Relinker QR codes generator for Magento 2",
     "require": {
-        "php": "^7.0|^7.1|^7.2",
-        "magento/magento2-base": "^2.1|^2.2|^2.3",
         "msp/module-relinker-api": "^0.2",
         "endroid/qr-code": "^2.5"
     },
